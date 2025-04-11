@@ -74,11 +74,11 @@ job-portal-system/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/job-portal-system.git
+  https://github.com/Dhanyaravi0903/JobPortalSystem-final.git
    ```
 2. Import into Eclipse or any Java IDE
 3. Ensure MySQL is running and update credentials in `Database.java`
-4. Run `Main.java` (or `Index.java`) to start the application
+4. Run `Index.java` to start the application
 
 ---
 
